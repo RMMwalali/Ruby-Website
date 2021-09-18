@@ -819,7 +819,7 @@ main .slider #carouselExampleIndicators .carousel-indicators li::before {
   font-weight: 500;
   letter-spacing: 0.5px;
 }
-.bg-03 .heading h2 {
+.bg-03 .heading h3 {
   font-size: 1.5625rem;
   text-transform: capitalize;
   font-weight: 600;
