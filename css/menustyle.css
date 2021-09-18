@@ -505,10 +505,9 @@ header .my-nav .logo img {
 }
 
 .og-hf {
-  background: #202C45;
+  background: #202040;
   position: fixed;
   height: 66px;
-  z-index: 999;
   width: 100%;
   -webkit-transition: all 1s ease-out;
   -moz-transition: all 1s ease-out;
@@ -517,8 +516,7 @@ header .my-nav .logo img {
   transition: all 1s ease-out;
 }
 .og-hf {
-  background: #202C45;
-  z-index: 5;
+  background: #202040;
 }
 
 
