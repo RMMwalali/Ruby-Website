@@ -18,14 +18,13 @@ body {
 .header {
   background: #202040;
   position: relative;
-  max-width: 80vw;
+  max-width: 100vw;
   margin: auto;
   display: flex;
   align-items: center;
   justify-content: space-between;
   padding: 1rem 2rem;
   z-index: 1;
-  background: #202040;
 }
 .header a {
   text-decoration: none;
