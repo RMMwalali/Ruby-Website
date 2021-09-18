@@ -802,6 +802,7 @@ main .slider #carouselExampleIndicators .carousel-indicators li::before {
 
 .bg-03 {
   background: #fafafa;
+  z-index: -30;
 }
 .bg-03 .heading {
   display: block;
