@@ -709,7 +709,9 @@ main .slider #carouselExampleIndicators .carousel-indicators li::before {
   line-height: 1.5625rem;
   margin: 0.3125rem 0;
 }
-
+.bg-02{
+  z-index:-30;
+}
 .bg-02::before {
   position: absolute;
   content: "";
@@ -718,7 +720,7 @@ main .slider #carouselExampleIndicators .carousel-indicators li::before {
   height: 100%;
   top: 0;
   background: #f5f4f0;
-  z-index: -30;
+  z-index: 1;
 }
 .bg-02 .image {
   position: relative;
