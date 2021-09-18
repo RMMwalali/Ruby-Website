@@ -1408,10 +1408,10 @@ main .slider #carouselExampleIndicators .carousel-indicators li::before {
   display: inline-block;
   padding: 20px 0px;
   font-size: 16px;
-  color: #dddddd;
+  color: #202040;
 }
 .abt-01 .seting ol li i {
-  color: #dddddd;
+  color: #202040;
   margin: 0 10px;
 }
 
