@@ -1398,7 +1398,7 @@ main .slider #carouselExampleIndicators .carousel-indicators li::before {
 }
 .abt-01 .seting h3 {
   font-size: 20px;
-  color: #fff;
+  color: navy;
   text-transform: uppercase;
   font-weight: 700;
   letter-spacing: 0.3px;
