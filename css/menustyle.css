@@ -25,6 +25,7 @@ body {
   justify-content: space-between;
   padding: 1rem 2rem;
   z-index: 1;
+  background: #202040;
 }
 .header a {
   text-decoration: none;
