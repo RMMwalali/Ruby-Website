@@ -722,7 +722,7 @@ main .slider #carouselExampleIndicators .carousel-indicators li::before {
 }
 .bg-02 .image {
   position: relative;
-  z-index: 2;
+  z-index: -30;
 }
 .bg-02 .heading {
   display: block;
